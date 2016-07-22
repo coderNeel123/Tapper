@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class ViewController: UIViewController, UITextFieldDelegate {
 
     
     var maxTaps: Int = 0
@@ -22,7 +22,11 @@ class ViewController: UIViewController {
     @IBOutlet weak var coinButton: UIButton!
     @IBOutlet weak var tapLabel: UILabel!
     
-    
+    override func viewDidLoad() {
+        super.viewDidLoad()
+            self.textField.delegate = self
+    }
+
     
     func textFieldShouldReturn(textField: UITextField) -> Bool {
         textField.resignFirstResponder()

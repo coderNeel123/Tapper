@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "EC14B4E6307F6EA3B982CCE4D2CFDACDF1784D8F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "EC14B4E6307F6EA3B982CCE4D2CFDACDF1784D8F" : 0,
+    "E59CE17B1A7A710B51AE5A6544ADAEDB8C7E14F6" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "AEA0C0F9-F14B-4BBA-9C9E-D91BD3AC001C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "EC14B4E6307F6EA3B982CCE4D2CFDACDF1784D8F" : "Tapper\/",
+    "E59CE17B1A7A710B51AE5A6544ADAEDB8C7E14F6" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Tapper",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Tapper.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:coderNeel123\/iOS-Boom-App-Test.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E59CE17B1A7A710B51AE5A6544ADAEDB8C7E14F6"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:coderNeel123\/Tapper.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EC14B4E6307F6EA3B982CCE4D2CFDACDF1784D8F"
+    }
+  ]
+}
